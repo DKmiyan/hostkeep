@@ -1,0 +1,7 @@
+本仓库基于 art-design-pro（https://github.com/Daymychen/art-design-pro，MIT License，
+Copyright (c) 2025 SuperManTT）二次开发，模板部分的原始许可全文见 LICENSE-art-design-pro，
+其版权声明与许可文本按 MIT 要求完整保留。
+
+在模板基础上新增与修改的部分（包括但不限于 src/gpumon/、src/views/monitor/、
+业务路由与接入逻辑）版权归本仓库作者所有，保留所有权利（All rights reserved），
+公开仅供阅读参考，未经授权不得复制、修改或用于商业用途。
